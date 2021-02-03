@@ -11,7 +11,7 @@ static const Block blocks[] = {
 	//{"",	"price lbc \"LBRY Token\" 📚",			0,	22},
 	//{"",	"torrent",	20,	7},
 	{"",	"spacer",	0,	1},
-	{"",	"mailbox",	180,	12},
+	//{"",	"mailbox",	180,	12}, //removed mailbox, since we used webmails more often anyways
 	{"",	"disk",		10,	1},
 	{"",	"disk /home",	10,	1},
 	{"",	"memory",	10,	1},
